@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/naufa/OneDrive/Documents/SMSML_Daffa%20Naufal%20Mumtaz%20Heryadi/Membangun_model/mlruns/380109676337950546/181ffd6684104e50a6ac6161efd9185d/artifacts
+end_time: 1766306966511
+entry_point_name: ''
+experiment_id: '380109676337950546'
+lifecycle_stage: active
+run_id: 181ffd6684104e50a6ac6161efd9185d
+run_name: k=7
+run_uuid: 181ffd6684104e50a6ac6161efd9185d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766306957771
+status: 3
+tags: []
+user_id: naufa
